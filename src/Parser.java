@@ -2,7 +2,7 @@
 @file: Parser.java
 @description: Handles reading commands from the input file, executing BST operations, and writing results to result.txt
 @author: Neil Sawhney
-@date: September 18, 2025
+@date: September 25, 2025
  */
 import java.io.*;
 import java.util.Scanner;
@@ -85,6 +85,7 @@ public class Parser {
         }
     }
 
+    // Parses a CSV string into a Movie object.
     private Movie parseMovie(String movieString) {
         String[] parts = movieString.split(",", 4);
         int rank = Integer.parseInt(parts[0]);

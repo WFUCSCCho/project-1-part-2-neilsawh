@@ -2,7 +2,7 @@
 @file: BST.java
 @description: Implements the generic Binary Search Tree with methods for insertion, searching, removal, and traversal.
 @author: Neil Sawhney
-@date: September 18, 2025
+@date: September 25, 2025
  */
 public class BST <T extends Comparable<T>>{
     private Node<T> root;
