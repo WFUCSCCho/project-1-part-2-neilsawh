@@ -1,0 +1,250 @@
+insert #1 The Shawshank Redemption 1994, IMBD Rating: 9.3
+insert #2 The Godfather 1972, IMBD Rating: 9.2
+insert #3 The Dark Knight 2008, IMBD Rating: 9.0
+insert #4 The Godfather Part II 1974, IMBD Rating: 9.0
+insert #5 12 Angry Men 1957, IMBD Rating: 9.0
+insert #6 Schindler's List 1993, IMBD Rating: 9.0
+insert #7 The Lord of the Rings: The Return of the King 2003, IMBD Rating: 9.0
+insert #8 Pulp Fiction 1994, IMBD Rating: 8.9
+insert #9 The Lord of the Rings: The Fellowship of the Ring 2001, IMBD Rating: 8.8
+Invalid Command
+insert #11 Forrest Gump 1994, IMBD Rating: 8.8
+insert #12 Fight Club 1999, IMBD Rating: 8.8
+insert #13 The Lord of the Rings: The Two Towers 2002, IMBD Rating: 8.8
+insert #14 Inception 2010, IMBD Rating: 8.8
+insert #15 Star Wars: Episode V - The Empire Strikes Back 1980, IMBD Rating: 8.7
+insert #16 The Matrix 1999, IMBD Rating: 8.7
+insert #17 Goodfellas 1990, IMBD Rating: 8.7
+insert #18 One Flew Over the Cuckoo's Nest 1975, IMBD Rating: 8.7
+insert #19 Se7en 1995, IMBD Rating: 8.6
+insert #20 Seven Samurai 1954, IMBD Rating: 8.6
+insert #21 It's a Wonderful Life 1946, IMBD Rating: 8.6
+insert #22 The Silence of the Lambs 1991, IMBD Rating: 8.6
+insert #23 City of God 2002, IMBD Rating: 8.6
+insert #24 Saving Private Ryan 1998, IMBD Rating: 8.6
+insert #25 Interstellar 2014, IMBD Rating: 8.6
+insert #26 Life Is Beautiful 1997, IMBD Rating: 8.6
+insert #27 The Green Mile 1999, IMBD Rating: 8.6
+insert #28 Star Wars: Episode IV - A New Hope 1977, IMBD Rating: 8.6
+insert #29 Terminator 2: Judgment Day 1991, IMBD Rating: 8.6
+insert #30 Back to the Future 1985, IMBD Rating: 8.5
+insert #31 Spirited Away 2001, IMBD Rating: 8.6
+insert #32 The Pianist 2002, IMBD Rating: 8.5
+insert #33 Psycho 1960, IMBD Rating: 8.5
+insert #34 Parasite 2019, IMBD Rating: 8.5
+insert #35 Léon: The Professional 1994, IMBD Rating: 8.5
+insert #36 The Lion King 1994, IMBD Rating: 8.5
+insert #37 Gladiator 2000, IMBD Rating: 8.5
+insert #38 American History X 1998, IMBD Rating: 8.5
+insert #39 The Departed 2006, IMBD Rating: 8.5
+insert #40 The Usual Suspects 1995, IMBD Rating: 8.5
+insert #41 The Prestige 2006, IMBD Rating: 8.5
+insert #42 Whiplash 2014, IMBD Rating: 8.5
+insert #43 Casablanca 1942, IMBD Rating: 8.5
+insert #44 Grave of the Fireflies 1988, IMBD Rating: 8.5
+insert #45 Harakiri 1962, IMBD Rating: 8.6
+insert #46 The Intouchables 2011, IMBD Rating: 8.5
+insert #47 Modern Times 1936, IMBD Rating: 8.5
+insert #48 Once Upon a Time in the West 1968, IMBD Rating: 8.5
+insert #49 Rear Window 1954, IMBD Rating: 8.5
+insert #50 Cinema Paradiso 1988, IMBD Rating: 8.5
+insert #51 Alien 1979, IMBD Rating: 8.5
+insert #52 City Lights 1931, IMBD Rating: 8.5
+insert #53 Apocalypse Now 1979, IMBD Rating: 8.5
+insert #54 Memento 2000, IMBD Rating: 8.4
+insert #55 Django Unchained 2012, IMBD Rating: 8.4
+insert #56 Indiana Jones and the Raiders of the Lost Ark 1981, IMBD Rating: 8.4
+insert #57 WALL·E 2008, IMBD Rating: 8.4
+insert #58 The Lives of Others 2006, IMBD Rating: 8.4
+insert #59 Sunset Blvd. 1950, IMBD Rating: 8.4
+insert #60 Paths of Glory 1957, IMBD Rating: 8.4
+insert #61 The Shining 1980, IMBD Rating: 8.4
+insert #62 The Great Dictator 1940, IMBD Rating: 8.4
+insert #63 Avengers: Infinity War 2018, IMBD Rating: 8.4
+insert #64 Witness for the Prosecution 1957, IMBD Rating: 8.4
+insert #65 Aliens 1986, IMBD Rating: 8.4
+insert #66 Spider-Man: Into the Spider-Verse 2018, IMBD Rating: 8.4
+insert #67 American Beauty 1999, IMBD Rating: 8.4
+insert #68 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 1964, IMBD Rating: 8.4
+insert #69 The Dark Knight Rises 2012, IMBD Rating: 8.4
+insert #70 Oldboy 2003, IMBD Rating: 8.4
+insert #71 Inglourious Basterds 2009, IMBD Rating: 8.3
+insert #72 Amadeus 1984, IMBD Rating: 8.4
+insert #73 Coco 2017, IMBD Rating: 8.4
+insert #74 Toy Story 1995, IMBD Rating: 8.3
+insert #75 Joker 2019, IMBD Rating: 8.4
+insert #76 Braveheart 1995, IMBD Rating: 8.4
+insert #77 The Boat 1981, IMBD Rating: 8.4
+insert #78 Avengers: Endgame 2019, IMBD Rating: 8.4
+insert #79 Princess Mononoke 1997, IMBD Rating: 8.4
+insert #80 Once Upon a Time in America 1984, IMBD Rating: 8.3
+insert #81 Good Will Hunting 1997, IMBD Rating: 8.3
+insert #82 Your Name. 2016, IMBD Rating: 8.4
+insert #83 3 Idiots 2009, IMBD Rating: 8.4
+insert #84 Singin' in the Rain 1952, IMBD Rating: 8.3
+insert #85 Requiem for a Dream 2000, IMBD Rating: 8.3
+insert #86 Toy Story 3 2010, IMBD Rating: 8.3
+insert #87 High and Low 1963, IMBD Rating: 8.4
+insert #88 Capernaum 2018, IMBD Rating: 8.4
+insert #89 Star Wars: Episode VI - Return of the Jedi 1983, IMBD Rating: 8.3
+insert #90 Eternal Sunshine of the Spotless Mind 2004, IMBD Rating: 8.3
+insert #91 2001: A Space Odyssey 1968, IMBD Rating: 8.3
+insert #92 Reservoir Dogs 1992, IMBD Rating: 8.3
+insert #93 Come and See 1985, IMBD Rating: 8.4
+insert #94 The Hunt 2012, IMBD Rating: 8.3
+insert #95 Citizen Kane 1941, IMBD Rating: 8.3
+insert #96 M 1931, IMBD Rating: 8.3
+insert #97 Lawrence of Arabia 1962, IMBD Rating: 8.3
+insert #98 North by Northwest 1959, IMBD Rating: 8.3
+insert #99 Vertigo 1958, IMBD Rating: 8.3
+insert #100 Ikiru 1952, IMBD Rating: 8.3
+insert #101 Amélie 2001, IMBD Rating: 8.3
+insert #102 The Apartment 1960, IMBD Rating: 8.3
+insert #103 A Clockwork Orange 1971, IMBD Rating: 8.3
+insert #104 Double Indemnity 1944, IMBD Rating: 8.3
+insert #105 Full Metal Jacket 1987, IMBD Rating: 8.3
+insert #106 Top Gun: Maverick 2022, IMBD Rating: 8.3
+insert #107 Scarface 1983, IMBD Rating: 8.3
+insert #108 Hamilton 2020, IMBD Rating: 8.4
+insert #109 Incendies 2010, IMBD Rating: 8.3
+insert #110 To Kill a Mockingbird 1962, IMBD Rating: 8.3
+insert #111 Heat 1995, IMBD Rating: 8.3
+insert #112 The Sting 1973, IMBD Rating: 8.3
+insert #113 Up 2009, IMBD Rating: 8.3
+insert #114 A Separation 2011, IMBD Rating: 8.3
+insert #115 Metropolis 1927, IMBD Rating: 8.3
+insert #116 Taxi Driver 1976, IMBD Rating: 8.2
+insert #117 L.A. Confidential 1997, IMBD Rating: 8.2
+insert #118 Die Hard 1988, IMBD Rating: 8.2
+insert #119 Snatch 2000, IMBD Rating: 8.2
+insert #120 Indiana Jones and the Last Crusade 1989, IMBD Rating: 8.2
+insert #121 Bicycle Thieves 1948, IMBD Rating: 8.3
+insert #122 Like Stars on Earth 2007, IMBD Rating: 8.3
+insert #123 1917 2019, IMBD Rating: 8.2
+insert #124 Downfall 2004, IMBD Rating: 8.2
+insert #125 Dangal 2016, IMBD Rating: 8.3
+insert #126 For a Few Dollars More 1965, IMBD Rating: 8.2
+insert #127 Batman Begins 2005, IMBD Rating: 8.2
+insert #128 The Kid 1921, IMBD Rating: 8.3
+insert #129 Some Like It Hot 1959, IMBD Rating: 8.2
+insert #130 The Father 2020, IMBD Rating: 8.2
+insert #131 All About Eve 1950, IMBD Rating: 8.2
+insert #132 The Wolf of Wall Street 2013, IMBD Rating: 8.2
+insert #133 Green Book 2018, IMBD Rating: 8.2
+insert #134 Judgment at Nuremberg 1961, IMBD Rating: 8.3
+insert #135 Casino 1995, IMBD Rating: 8.2
+insert #136 Ran 1985, IMBD Rating: 8.2
+insert #137 Pan's Labyrinth 2006, IMBD Rating: 8.2
+insert #138 The Truman Show 1998, IMBD Rating: 8.2
+insert #139 There Will Be Blood 2007, IMBD Rating: 8.2
+insert #140 Unforgiven 1992, IMBD Rating: 8.2
+insert #141 The Sixth Sense 1999, IMBD Rating: 8.2
+insert #142 Shutter Island 2010, IMBD Rating: 8.2
+insert #143 A Beautiful Mind 2001, IMBD Rating: 8.2
+insert #144 Jurassic Park 1993, IMBD Rating: 8.2
+insert #145 Yojimbo 1961, IMBD Rating: 8.2
+insert #146 The Treasure of the Sierra Madre 1948, IMBD Rating: 8.2
+insert #147 Monty Python and the Holy Grail 1975, IMBD Rating: 8.2
+insert #148 The Great Escape 1963, IMBD Rating: 8.2
+insert #149 No Country for Old Men 2007, IMBD Rating: 8.2
+insert #150 Spider-Man: No Way Home 2021, IMBD Rating: 8.2
+insert #151 Kill Bill: Vol. 1 2003, IMBD Rating: 8.2
+insert #152 Rashomon 1950, IMBD Rating: 8.2
+insert #153 The Thing 1982, IMBD Rating: 8.2
+insert #154 Finding Nemo 2003, IMBD Rating: 8.2
+insert #155 The Elephant Man 1980, IMBD Rating: 8.2
+insert #156 Chinatown 1974, IMBD Rating: 8.2
+insert #157 Raging Bull 1980, IMBD Rating: 8.2
+insert #158 V for Vendetta 2005, IMBD Rating: 8.2
+insert #159 Gone with the Wind 1939, IMBD Rating: 8.2
+Invalid Command
+insert #161 Inside Out 2015, IMBD Rating: 8.2
+insert #162 Dial M for Murder 1954, IMBD Rating: 8.2
+insert #163 The Secret in Their Eyes 2009, IMBD Rating: 8.2
+insert #164 Howl's Moving Castle 2004, IMBD Rating: 8.2
+Invalid Command
+insert #166 The Bridge on the River Kwai 1957, IMBD Rating: 8.2
+insert #167 Trainspotting 1996, IMBD Rating: 8.1
+insert #168 Prisoners 2013, IMBD Rating: 8.1
+insert #169 Warrior 2011, IMBD Rating: 8.2
+insert #170 Fargo 1996, IMBD Rating: 8.1
+insert #171 Gran Torino 2008, IMBD Rating: 8.1
+insert #172 My Neighbor Totoro 1988, IMBD Rating: 8.1
+insert #173 Catch Me If You Can 2002, IMBD Rating: 8.1
+insert #174 Million Dollar Baby 2004, IMBD Rating: 8.1
+insert #175 Children of Heaven 1997, IMBD Rating: 8.2
+insert #176 Blade Runner 1982, IMBD Rating: 8.1
+insert #177 The Gold Rush 1925, IMBD Rating: 8.1
+insert #178 Before Sunrise 1995, IMBD Rating: 8.1
+insert #179 12 Years a Slave 2013, IMBD Rating: 8.1
+insert #180 Klaus 2019, IMBD Rating: 8.2
+insert #181 Harry Potter and the Deathly Hallows: Part 2 2011, IMBD Rating: 8.1
+insert #182 On the Waterfront 1954, IMBD Rating: 8.1
+insert #183 Ben-Hur 1959, IMBD Rating: 8.1
+insert #184 Gone Girl 2014, IMBD Rating: 8.1
+insert #185 The Grand Budapest Hotel 2014, IMBD Rating: 8.1
+insert #186 Wild Strawberries 1957, IMBD Rating: 8.1
+insert #187 The General 1926, IMBD Rating: 8.1
+insert #188 The Third Man 1949, IMBD Rating: 8.1
+insert #189 In the Name of the Father 1993, IMBD Rating: 8.1
+insert #190 The Deer Hunter 1978, IMBD Rating: 8.1
+insert #191 Barry Lyndon 1975, IMBD Rating: 8.1
+insert #192 Hacksaw Ridge 2016, IMBD Rating: 8.1
+insert #193 The Wages of Fear 1953, IMBD Rating: 8.2
+insert #194 Memories of Murder 2003, IMBD Rating: 8.1
+insert #195 Sherlock Jr. 1924, IMBD Rating: 8.2
+insert #196 Wild Tales 2014, IMBD Rating: 8.1
+insert #197 Mr. Smith Goes to Washington 1939, IMBD Rating: 8.1
+insert #198 Mad Max: Fury Road 2015, IMBD Rating: 8.1
+insert #199 The Seventh Seal 1957, IMBD Rating: 8.1
+insert #200 Mary and Max 2009, IMBD Rating: 8.1
+insert #201 How to Train Your Dragon 2010, IMBD Rating: 8.1
+insert #202 Room 2015, IMBD Rating: 8.1
+Invalid Command
+insert #204 Jaws 1975, IMBD Rating: 8.1
+insert #205 Dead Poets Society 1989, IMBD Rating: 8.1
+insert #206 The Big Lebowski 1998, IMBD Rating: 8.1
+insert #207 Tokyo Story 1953, IMBD Rating: 8.2
+insert #208 The Passion of Joan of Arc 1928, IMBD Rating: 8.2
+insert #209 Hotel Rwanda 2004, IMBD Rating: 8.1
+insert #210 Ford v Ferrari 2019, IMBD Rating: 8.1
+insert #211 Rocky 1976, IMBD Rating: 8.1
+insert #212 Platoon 1986, IMBD Rating: 8.1
+insert #213 Ratatouille 2007, IMBD Rating: 8.1
+insert #214 Spotlight 2015, IMBD Rating: 8.1
+insert #215 The Terminator 1984, IMBD Rating: 8.1
+insert #216 Logan 2017, IMBD Rating: 8.1
+insert #217 Stand by Me 1986, IMBD Rating: 8.1
+insert #218 Rush 2013, IMBD Rating: 8.1
+insert #219 Network 1976, IMBD Rating: 8.1
+insert #220 Into the Wild 2007, IMBD Rating: 8.1
+insert #221 Before Sunset 2004, IMBD Rating: 8.1
+insert #222 The Wizard of Oz 1939, IMBD Rating: 8.1
+insert #223 Pather Panchali 1955, IMBD Rating: 8.3
+insert #224 Groundhog Day 1993, IMBD Rating: 8.1
+insert #225 The Best Years of Our Lives 1946, IMBD Rating: 8.1
+insert #226 The Exorcist 1973, IMBD Rating: 8.1
+insert #227 The Incredibles 2004, IMBD Rating: 8.0
+insert #228 To Be or Not to Be 1942, IMBD Rating: 8.2
+insert #229 La haine 1995, IMBD Rating: 8.1
+insert #230 The Battle of Algiers 1966, IMBD Rating: 8.1
+insert #231 Pirates of the Caribbean: The Curse of the Black Pearl 2003, IMBD Rating: 8.1
+insert #232 Hachi: A Dog's Tale 2009, IMBD Rating: 8.1
+insert #233 The Grapes of Wrath 1940, IMBD Rating: 8.1
+insert #234 Jai Bhim 2021, IMBD Rating: 8.8
+insert #235 My Father and My Son 2005, IMBD Rating: 8.2
+insert #236 Amores Perros 2000, IMBD Rating: 8.1
+insert #237 Rebecca 1940, IMBD Rating: 8.1
+insert #238 Cool Hand Luke 1967, IMBD Rating: 8.1
+insert #239 The Handmaiden 2016, IMBD Rating: 8.1
+insert #240 The 400 Blows 1959, IMBD Rating: 8.1
+insert #241 The Sound of Music 1965, IMBD Rating: 8.1
+insert #242 It Happened One Night 1934, IMBD Rating: 8.1
+insert #243 Persona 1966, IMBD Rating: 8.1
+insert #244 Life of Brian 1979, IMBD Rating: 8.0
+insert #245 The Iron Giant 1999, IMBD Rating: 8.1
+insert #246 The Help 2011, IMBD Rating: 8.1
+insert #247 Dersu Uzala 1975, IMBD Rating: 8.2
+insert #248 Aladdin 1992, IMBD Rating: 8.0
+insert #249 Gandhi 1982, IMBD Rating: 8.0
+insert #250 Dances with Wolves 1990, IMBD Rating: 8.0
