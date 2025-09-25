@@ -1,3 +1,11 @@
+/*
+@file: Proj1.java
+@description: Contains the program’s main that checks arguments and launches the parser.
+@author: Neil Sawhney
+@date: September 18, 2025
+ */
+
+
 import java.io.FileNotFoundException;
 
 public class Proj1 {

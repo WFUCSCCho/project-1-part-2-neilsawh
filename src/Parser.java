@@ -1,36 +1,85 @@
+/*
+@file: Parser.java
+@description: Handles reading commands from the input file, executing BST operations, and writing results to result.txt
+@author: Neil Sawhney
+@date: September 18, 2025
+ */
 import java.io.*;
+import java.util.Scanner;
 
 public class Parser {
 
     //Create a BST tree of Integer type
-    private BST<Integer> mybst = new BST<>();
+    private BST<Movie> mybst = new BST<>();
 
     public Parser(String filename) throws FileNotFoundException {
         process(new File(filename));
     }
 
-    // Implement the process method
-    // Remove redundant spaces for each input command
+    // Implemented the process method
+    // Removed redundant spaces for each input command
     public void process(File input) throws FileNotFoundException {
+        Scanner scanner = new Scanner(input);
 
-        //call operate_BST method;
+        while (scanner.hasNextLine()) {
+            String line = scanner.nextLine().trim();
+            if (line.isEmpty())
+                continue;
+            String[] command = line.split("\\s+");
+            operate_BST(command);
+        }
+        scanner.close();
     }
 
-    // Implement the operate_BST method
-    // Determine the incoming command and operate on the BST
+    // Execute BST operations based on parsed commands (insert, search, remove, print)
     public void operate_BST(String[] command) {
-        switch (command[0]) {
-            // add your cases here 
-            // call writeToFile
-
-            // default case for Invalid Command
-            default -> writeToFile("Invalid Command", "./result.txt");
+        try {
+            switch (command[0]) {
+                case "insert": {
+                    Movie movie = parseMovie(command[1]);
+                    mybst.insert(movie);
+                    writeToFile("insert " + movie, "./result.txt");
+                    break;
+                }
+                case "search": {
+                    int movie = Integer.parseInt(command[1]);
+                    Node<Movie> node = mybst.search(movie);
+                    if (node != null && node.getValue().equals(movie))
+                        writeToFile("found " + movie, "./result.txt");
+                    else
+                        writeToFile("not found " + movie, "./result.txt");
+                    break;
+                }
+                case "print":
+                    writeToFile(mybst.inorder(), "./result.txt");
+                    break;
+                default:
+                    writeToFile("Invalid Command", "./result.txt");
+                    break;
+            }
+        } catch (Exception e) {
+            writeToFile("Invalid Command", "./result.txt");
         }
     }
 
-    // Implement the writeToFile method
-    // Generate the result file
+    // Implemented the writeToFile method
+    // Generated the result file
     public void writeToFile(String content, String filePath) {
-
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath, true))) {
+            writer.write(content);
+            writer.newLine();
+        } catch (IOException e) {
+            System.out.println("Error writing to file: " + e.getMessage());
+        }
     }
+
+    private Movie parseMovie(String movieString) {
+        String[] parts = movieString.split(",", 4);
+        int rank = Integer.parseInt(parts[0]);
+        String title = parts[1];
+        int year = Integer.parseInt(parts[2]);
+        double rating = Double.parseDouble(parts[3]);
+        return new Movie(rank, title, year, rating);
+    }
+
 }
