@@ -6,6 +6,7 @@
  */
 public class BST <T extends Comparable<T>>{
     private Node<T> root;
+    private int movie;
 
     // Initialize tree with empty root
     public BST() {
@@ -14,7 +15,7 @@ public class BST <T extends Comparable<T>>{
 
     // Insert a new value into the BST
     public void insert(T value) {
-        root = insertRec(root,value);
+        root = insertRec(root, value);
     }
 
     // Recursively find the correct position and insert the node
@@ -22,15 +23,21 @@ public class BST <T extends Comparable<T>>{
         if (current == null) {
             return new Node<>(value);
         }
-        int compare = ((Movie)value).compareTo((Movie)current.getValue());
-        if (compare < 0) current.setLeft(insertRec(current.getLeft(), value));
-        else if (compare > 0) current.setRight(insertRec(current.getRight(), value));
+
+        int compare = value.compareTo(current.getValue());
+
+        if (compare < 0) {
+            current.setLeft(insertRec(current.getLeft(), value));
+        } else if (compare > 0) {
+            current.setRight(insertRec(current.getRight(), value));
+        }
+
         return current;
     }
 
     // Search for a node with the given value
-    public Node<T> search(int value) {
-        return searchRec(root, value);
+    public Node<T> search(T value) {
+        return searchRec(root, movie);
     }
 
     // Currently returns a new node if not found
@@ -39,6 +46,7 @@ public class BST <T extends Comparable<T>>{
             return null;
         }
         int compare = value;
+
         if (compare < 0)
             return searchRec(current.getLeft(), value);
         else if (compare > 0)

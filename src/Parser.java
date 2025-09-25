@@ -25,8 +25,18 @@ public class Parser {
             String line = scanner.nextLine().trim();
             if (line.isEmpty())
                 continue;
-            String[] command = line.split("\\s+");
-            operate_BST(command);
+            else if (line.startsWith("insert")) {
+                String movieData = line.substring(6).trim(); // after "insert "
+                operate_BST(new String[]{"insert", movieData});
+            } else if (line.startsWith("search")) {
+                String rank = line.substring(6).trim(); // after "search "
+                operate_BST(new String[]{"search", rank});
+            } else if (line.startsWith("print")) {
+                operate_BST(new String[]{"print"});
+            } else {
+                writeToFile("Invalid Command", "./result.txt");
+            }
+
         }
         scanner.close();
     }
@@ -42,12 +52,14 @@ public class Parser {
                     break;
                 }
                 case "search": {
-                    int movie = Integer.parseInt(command[1]);
-                    Node<Movie> node = mybst.search(movie);
-                    if (node != null && node.getValue().equals(movie))
-                        writeToFile("found " + movie, "./result.txt");
+                    int rank = Integer.parseInt(command[1]);
+                    Movie dummyMovie = new Movie(rank, "", 0, 0.0);
+                    Node<Movie> node = mybst.search(dummyMovie);
+
+                    if (node != null && node.getValue().getRank() == rank)
+                        writeToFile("found " + rank, "./result.txt");
                     else
-                        writeToFile("not found " + movie, "./result.txt");
+                        writeToFile("not found " + rank, "./result.txt");
                     break;
                 }
                 case "print":
